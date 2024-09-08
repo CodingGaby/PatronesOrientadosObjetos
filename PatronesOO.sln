@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge04", "Bridge04\Bridge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotelBooking", "hotelBooking\hotelBooking.csproj", "{AE2F9052-383E-4162-B228-97F30F3F4960}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcBuilder", "PcBuilder\PcBuilder.csproj", "{1AC076E4-5478-45A2-A1A4-A6AF44ED307B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AE2F9052-383E-4162-B228-97F30F3F4960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE2F9052-383E-4162-B228-97F30F3F4960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE2F9052-383E-4162-B228-97F30F3F4960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC076E4-5478-45A2-A1A4-A6AF44ED307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC076E4-5478-45A2-A1A4-A6AF44ED307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC076E4-5478-45A2-A1A4-A6AF44ED307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC076E4-5478-45A2-A1A4-A6AF44ED307B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
