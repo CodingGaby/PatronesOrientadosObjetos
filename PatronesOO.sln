@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricaAbstracta11", "Fabri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder12", "Builder12\Builder12.csproj", "{E0C03B28-38A5-4D9C-9BCE-269A79D965EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAssembler", "CarAssembler\CarAssembler.csproj", "{6DAAF8B0-EC65-4E62-AA49-6801900246F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comando16", "Comando16\Comando16.csproj", "{BD9189EF-2724-4F11-A0E7-90B87AB02632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{E0C03B28-38A5-4D9C-9BCE-269A79D965EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0C03B28-38A5-4D9C-9BCE-269A79D965EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0C03B28-38A5-4D9C-9BCE-269A79D965EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAAF8B0-EC65-4E62-AA49-6801900246F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAAF8B0-EC65-4E62-AA49-6801900246F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAAF8B0-EC65-4E62-AA49-6801900246F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAAF8B0-EC65-4E62-AA49-6801900246F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9189EF-2724-4F11-A0E7-90B87AB02632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9189EF-2724-4F11-A0E7-90B87AB02632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9189EF-2724-4F11-A0E7-90B87AB02632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9189EF-2724-4F11-A0E7-90B87AB02632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
